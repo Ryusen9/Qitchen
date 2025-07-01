@@ -12,7 +12,7 @@ const HomeLayout = () => {
         </div>
 
         {/* Side Menu - Right */}
-        <div className="rounded-xl overflow-hidden">
+        <div className="w-full min-h-full rounded-xl overflow-hidden">
           <SideMenu />
         </div>
       </div>
